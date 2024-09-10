@@ -56,4 +56,4 @@ DinaForms é um aplicativo Android para criação e gerenciamento de formulário
 
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/dinaforms.git
+   git clone https://github.com/lucferrsan/dinaforms.git
