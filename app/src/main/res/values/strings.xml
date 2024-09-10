@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DinaForms</string>
+    <string name="title_home">Home</string>
+    <string name="title_form">Forms</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="none">None</string>
+</resources>
