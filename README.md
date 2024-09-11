@@ -1,5 +1,7 @@
 # DinaForms
 
+- **Obs.**: Apk para testes no diretório app
+
 DinaForms é um aplicativo Android para criação e gerenciamento de formulários dinâmicos. Desenvolvido em Kotlin, o aplicativo carrega e processa formulários a partir de arquivos JSON, permitindo a renderização e manipulação de campos de formulário de forma dinâmica.
 
 ## Funcionalidades
@@ -54,4 +56,4 @@ DinaForms é um aplicativo Android para criação e gerenciamento de formulário
 
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/dinaforms.git
+   git clone https://github.com/lucferrsan/dinaforms.git
